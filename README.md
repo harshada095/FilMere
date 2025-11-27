@@ -6,7 +6,7 @@ This is a movie app project built using HTML, CSS, and JavaScript. It utilizes t
 <div align="center">
 <a href=" https://harshada095.github.io/FilMere/" target="_blank">
 
-![FilMere]()
+![FilMere](img/Project_ss.png)
 
 </a> 
 </div>
